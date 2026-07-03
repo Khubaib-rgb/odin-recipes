@@ -11,3 +11,5 @@ By completing this project, I will have successfully demonstrated my understandi
 * **Lists:** Building both ordered (`<ol>`) and unordered (`<ul>`) lists for ingredients and instructions.
 * **Anchors & Links:** Linking internal pages together and linking out to external recipe sources.
 * **File paths:** Properly organizing files and referencing relative paths within a project directory.
+
+you can follow this as well by joining through this link (https://www.theodinproject.com/paths/foundations/courses/foundations) today
